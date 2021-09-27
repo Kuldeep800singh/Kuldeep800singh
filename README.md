@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kuldeep800singh
-- 👀 I’m interested in C++, Iot, Table Tennis, and Flutter and many more things
-- 🌱 I’m currently learning Opengl, Flutter and java
-- 💞️ I’m looking to collaborate on C/C++, Flutter, Android development, and web developer based works.
+- 👀 I’m interested in C++, Web Development, Back end, Table Tennis, Chess and Flutter.
+- 🌱 I’m currently learning reactjs,firebase
+- 💞️ I’m looking to collaborate on C/C++ projects,Web Development, Backend based works.
 - 📫 How to reach me at kul8003995609deep@gmail.com
 
 <!---

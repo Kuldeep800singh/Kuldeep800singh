@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kuldeep800singh
+- 👋 Hi, I’m Kuldeep Singh
 - 👀 I’m interested in C++, Web Development, Back end, Table Tennis, Chess and Flutter.
 - 🌱 I’m currently learning reactjs,firebase
 - 💞️ I’m looking to collaborate on C/C++ projects,Web Development, Backend based works.
